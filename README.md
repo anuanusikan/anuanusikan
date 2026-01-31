@@ -48,7 +48,7 @@ Currently building my skills through academic projects and self-learning, and I�
 ## 📫 Contact Me
 
 - 📍 Sri Lanka  
-- 💼 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 💼 GitHub: [https://github.com/Anusikan](https://github.com/anuanusikan))
 
 ---
 
