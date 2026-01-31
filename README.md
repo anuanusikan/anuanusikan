@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Anusikan 👋
 
-<!--
-**anuanusikan/anuanusikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Undergraduate (2nd Year)**  
+🏫 **University of Ruhuna, Sri Lanka 🇱🇰**
 
-Here are some ideas to get you started:
+I’m a passionate computer engineering student with a strong interest in software development and problem solving.  
+Currently building my skills through academic projects and self-learning, and I’ll be updating my GitHub with more professional projects very soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- C
+- C++
+- C#
+
+**Web Technologies**
+- HTML
+- CSS
+- JavaScript
+
+**Other Skills**
+- Object-Oriented Programming (OOP)
+- Basic Data Structures & Algorithms
+- Git & GitHub (Version Control)
+
+---
+
+## 🚀 What I'm Working On
+
+- Improving my software engineering fundamentals  
+- Building academic and personal projects  
+- Preparing professional-grade projects for GitHub  
+
+📌 *More projects coming soon — stay tuned!*
+
+---
+
+## 📈 Goals
+
+- Become a skilled and industry-ready computer engineer  
+- Contribute to open-source projects  
+- Build scalable and well-structured applications  
+
+---
+
+## 📫 Contact Me
+
+- 📍 Sri Lanka  
+- 💼 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ *Feel free to check out my repositories and follow my journey!*
