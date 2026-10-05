@@ -1,6 +1,6 @@
 # Hi, I'm Anusikan 👋
 
-🎓 **Computer Engineering Undergraduate (2nd Year)**  
+🎓 **Computer Engineering Undergraduate (3rd Year)**  
 🏫 **University of Ruhuna, Sri Lanka 🇱🇰**
 
 I’m a passionate computer engineering student with a strong interest in software development and problem solving.  
@@ -18,7 +18,7 @@ Currently building my skills through academic projects and self-learning, and I�
 **Web Technologies**
 - HTML
 - CSS
-- JavaScript
+- JavaScript/Typescript
 
 **Other Skills**
 - Object-Oriented Programming (OOP)
